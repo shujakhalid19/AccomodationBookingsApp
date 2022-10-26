@@ -6,6 +6,8 @@ A simple react native app keeping in mind good design practises and better user 
 
 - `npm i`
 
+### UI
+
 <p align="left">
   <img src="./assets/attachments/1.jpg" width="30%" height="60%" style="margin:10px 80px 10px 0px" title="Messages">
   <img src="./assets/attachments/2.jpg" width="30%" height="60%" style="margin:10px 80px 10px 0px" title="Messages">
